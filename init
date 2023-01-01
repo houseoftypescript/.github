@@ -15,3 +15,5 @@ yarn add --exact @mui/icons-material
 yarn add --exact --dev prisma
 mkdir prisma
 touch prisma/schema.prisma
+## Pino
+yarn add --exact pino
