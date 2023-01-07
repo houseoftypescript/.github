@@ -2,7 +2,7 @@
 
 ## Projects
 
-- [2700chess](https://2700chess.vercel.app)
-- [dragoncapital](https://dragoncapital.vercel.app)
-- [vleague](https://vleague.vercel.app)
-- [usa](https://usa.vercel.app)
+- [APIs](https://houseofmystery.github.io/apis)
+- [Apps](https://houseofmystery.github.io/apps)
+- [Data](https://houseofmystery.github.io/data)
+- [Themes](https://houseofmystery.github.io/themes)
