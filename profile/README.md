@@ -27,4 +27,5 @@
 
 ## Templates
 
-- <img src="./svg/next.js.svg" alt="themes" width="16"/> [Next.js](https://github.com/houseofmystery/nextjs-template)
+- <img src="./svg/gatsby.js.svg" alt="gatsby.js" width="16"/> [Gatsby](https://houseofmystery.github.io/gatsby-template)
+- <img src="./svg/next.js.svg" alt="next.js" width="16"/> [Next.js](https://houseofmystery.github.io/nextjs-template)
