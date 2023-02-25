@@ -2,16 +2,24 @@
 
 - [House of Mystery](#house-of-mystery)
   - [Demo](#demo)
+    - [Front-end](#front-end)
+    - [Back-end](#back-end)
   - [Projects](#projects)
   - [Templates](#templates)
 
 ## Demo
 
-- <img src="./svg/apis.svg" alt="apis" width="16"/> [APIs](https://houseofmystery.github.io/apis)
+### Front-end
+
 - <img src="./svg/apps.svg" alt="apps" width="16"/> [Apps](https://houseofmystery.github.io/apps)
 - <img src="./svg/components.svg" alt="components" width="16"/> [Components](https://houseofmystery.github.io/components)
-- <img src="./svg/data.svg" alt="data" width="16"/> [Data](https://houseofmystery.github.io/data)
+- <img src="./svg/hooks.svg" alt="hooks" width="16"/> [Hooks](https://houseofmystery.github.io/hooks)
 - <img src="./svg/themes.svg" alt="themes" width="16"/> [Themes](https://houseofmystery.github.io/themes)
+
+### Back-end
+
+- <img src="./svg/apis.svg" alt="apis" width="16"/> [APIs](https://houseofmystery.github.io/apis)
+- <img src="./svg/data.svg" alt="data" width="16"/> [Data](https://houseofmystery.github.io/data)
 
 ## Projects
 
