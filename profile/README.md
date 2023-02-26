@@ -29,4 +29,4 @@
 
 - <img src="./svg/gatsby.js.svg" alt="gatsby.js" width="16"/> [Gatsby](https://houseofmystery.github.io/gatsby-template)
 - <img src="./svg/next.js.svg" alt="next.js" width="16"/> [Next.js](https://houseofmystery.github.io/nextjs-template)
-- <img src="./svg/solid.js.svg" alt="solid.js" width="16"/> [Next.js](https://houseofmystery.github.io/solid-template)
+- <img src="./svg/solid.js.svg" alt="solid.js" width="16"/> [Solid](https://houseofmystery.github.io/solid-template)
