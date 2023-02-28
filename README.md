@@ -4,6 +4,7 @@
   - [Demo](#demo)
     - [Front-end](#front-end)
     - [Back-end](#back-end)
+    - [Packages](#packages)
   - [Projects](#projects)
   - [Templates](#templates)
 
@@ -20,6 +21,10 @@
 
 - <img src="./svg/apis.svg" alt="apis" width="16"/> [APIs](https://houseoftypescript.github.io/apis)
 - <img src="./svg/data.svg" alt="data" width="16"/> [Data](https://houseoftypescript.github.io/data)
+
+### Packages
+
+- <img src="./svg/packages.svg" alt="packages" width="16"/> [Packages](https://houseoftypescript.github.io/packages)
 
 ## Projects
 
