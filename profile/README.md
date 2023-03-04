@@ -21,6 +21,7 @@
 
 - <img src="./svg/apis.svg" alt="apis" width="16"/> [APIs](https://houseoftypescript.github.io/apis)
 - <img src="./svg/data.svg" alt="data" width="16"/> [Data](https://houseoftypescript.github.io/data)
+- <img src="./svg/socket.svg" alt="socket" width="16"/> [Socket](https://houseoftypescript.github.io/socket)
 
 ### Packages
 
@@ -28,6 +29,7 @@
 
 ## Projects
 
+- ♟️ [2700Chess](https://houseoftypescript.github.io/2700chess)
 - ☕ [CafeSang](https://houseoftypescript.github.io/cafesang)
 
 ## Templates
